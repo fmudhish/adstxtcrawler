@@ -1,5 +1,7 @@
 ## Synopsis
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c76cb87712f94fa6a35839eb71430d2b)](https://app.codacy.com/gh/fmudhish/adstxtcrawler?utm_source=github.com&utm_medium=referral&utm_content=fmudhish/adstxtcrawler&utm_campaign=Badge_Grade)
+
 An example crawler for ads.txt files given a list of URLs or domains etc and saves them to a SQLite DB table.
 
 ## Usage Example
